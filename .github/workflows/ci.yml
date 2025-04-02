@@ -22,7 +22,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install pnpm
-        uses: pnpm/action-setup@v2
+        uses: pnpm/action-setup@53751a9789c7351e4924f01fe68370252a4f1f18 # v2.4.1
         with:
           version: 8.x
 
@@ -55,7 +55,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install pnpm
-        uses: pnpm/action-setup@v2
+        uses: pnpm/action-setup@53751a9789c7351e4924f01fe68370252a4f1f18 # v2.4.1
         with:
           version: 8.x
 
@@ -80,7 +80,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install pnpm
-        uses: pnpm/action-setup@v2
+        uses: pnpm/action-setup@53751a9789c7351e4924f01fe68370252a4f1f18 # v2.4.1
         with:
           version: 8.x
 
@@ -128,7 +128,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install pnpm
-        uses: pnpm/action-setup@v2
+        uses: pnpm/action-setup@53751a9789c7351e4924f01fe68370252a4f1f18 # v2.4.1
         with:
           version: 8.x
 
@@ -167,7 +167,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install pnpm
-        uses: pnpm/action-setup@v2
+        uses: pnpm/action-setup@53751a9789c7351e4924f01fe68370252a4f1f18 # v2.4.1
         with:
           version: 8.x
 
